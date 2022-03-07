@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    background-color: white;
+}
+header{
+    width: 900px;
+    height: 250px;
+    background-color:brown;
+    color: white;
+    font-weight: bold;
+            text-shadow: 2px 4px 6px black;
+}
+.cosmeticos{
+    width: 350px;
+    float: left;
+}
+nav{
+    width: 900px;
+    height: 150px;
+    background-color: rgb(233, 146, 194);
+    color: black;
+    float: inline-end;
+}
+.contactanos{
+    width: 400px;
+    height: 100px;
+    margin-left: 300px;
+}                                                                                                                                                                                                                                                                                                                    
+main{
+    width: 900px;
+    height: 850px;
+     }
+     div{
+         width: 600px;
+         height: 850px;
+         background-color:rgb(73, 15, 15); 
+         float: left;
+      }
+      .article{
+          width: 580px;
+          height: 200px;
+          background-color:  deeppink;
+          margin: 10px;
+          font-weight: bold;
+          text-shadow: 2px 4px 6px black;
+        }
+        .section{
+            width: 580px;
+            height: 200px;
+            background-color: rgb(124, 32, 81);
+            margin: 10px;
+            font-weight: bold;
+            text-shadow: 2px 4px 6px whitesmoke;
+        }
+        aside{
+width: 300px;
+height: 800px;
+background-color: rgb(233, 146, 194);
+color: whitesmoke;
+font-size: 19px;
+float: left;
+font-weight: bold;
+            text-shadow: 2px 4px 6px black;
+        }
+        footer{
+            width: 900px;
+            height: 200px;
+            background-color:rgb(120, 32, 81);
+            font-size: 20px;
+            color: yellow;
+        }
+        #body{ 
+            margin: auto;
+            width: 900px;
+            height: 1450px;
+        }
